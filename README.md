@@ -1,2 +1,2 @@
-# TutorialGeodoftOasisMontaj
+# TutorialGeosoftOasisMontaj
 Tutorial Geosoft Oasis Montaj
